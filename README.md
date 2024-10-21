@@ -1,9 +1,9 @@
 # Tarea1_JumpingTommy
-  Tarea 1 del Curso Unity básico 2D y 3D de Desafío Latam<br>
-  Programado por: José Leonardo Flores<br>
-  Arte y sonido: descargado de Internet<br>
+  Assignment 1 of the Basic 2D and 3D Unity Course by Desafío Latam<br>
+  Programmed by: José Leonardo Flores<br>
+  Art and sound: downloaded from the Internet.<br>
 
-  - El jugador tiene 3 vidas y una cantidad fija de saltos, y puede saltar en el aire.
-  - Se juega contra el tiempo.
-  - Tiempo de desarrollo: 10 horas aprox.  
-  - Puedes jugarlo en: https://joseleonardo.itch.io/jumpingtommy  
+  - The player has 3 lives and a fixed number of jumps, and can jump in the air.
+  - It is played against the clock.
+  - Development time: approximately 10 hours.
+  - You can play it on: https://joseleonardo.itch.io/jumpingtommy  
